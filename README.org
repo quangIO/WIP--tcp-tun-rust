@@ -1,0 +1,2 @@
+* This is just my playground
+Goals: implementing some boring protocols in Rust
